@@ -1,4 +1,6 @@
-# "Google Season of Docs Application" Writing Portfolio
+Portfolio : https://animeshsrivastava24.github.io/
+
+# "Google Season of Docs Application" Writing Portfolio "Quick Glance"
 
 1. **Neuromorphic Hardware Simulator (https://sourcesup.renater.fr/wiki/n2s3/start)**: Thesis Report
 https://drive.google.com/file/d/1cEkCGpa2E675M9FuKg16h2pubbRsJHtV/view?usp=sharing
